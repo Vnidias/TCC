@@ -1,7 +1,5 @@
 # Vinicius Dias Barros (currículo)
 
-<img src="https://media.licdn.com/dms/image/C4E03AQHFT5-bBK0jeA/profile-displayphoto-shrink_200_200/0?e=1551312000&v=beta&t=Tu-wJF_Ghm52gYnfp4j419rQ0-NeCNnh4rnEUygoZFw" />
-
 Local: São Paulo - SP | Idade: 21 anos
 
 Sou desenvolvedor a mais de 2 anos, Iot maníaco e trabalho sempre escutando uma boa música. Gosto muito do que faço
