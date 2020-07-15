@@ -2,11 +2,14 @@
 
 Local: São Paulo - SP | Idade: 21 anos
 
-Sou desenvolvedor a mais de 2 anos, Iot maníaco e trabalho sempre escutando uma boa música. Gosto muito do que faço
-e não me vejo fazendo outra coisa que não esteja relacionado com a internet. Nas horas vagas gosto de navegar na internet 
-para me manter atualizado nas novas tecnologias e tendências. Sou programador mas trabalho um pouco com design e "*user experience*".
 
-Atualmente trabalho na Wipro [Wipro](https://www.wipro.com/ "Link")
+Sou analista de dados generalista com experiência em:
+
+scrum, servidor oracle, sql server, mongo db, mysql, python, r, cloudera, previsão, clustering, detecção de anomalias e modelos de classificação. Ajudo as empresas a melhorar as equipes de ciência de dados projetando e implementando processos, ferramentas, definições de trabalho.
+
+Além disso, participei de projetos relacionados a LGPD, governança de dados, análise de dados (narração de histórias, modelagem descritiva e preditiva) e análise estatística (análise exploratória de dados, teste de hipóteses etc.). Algumas outras habilidades que tenho incluem Git, AWS, Azure, Power B.I, Tableau.
+
+Atualmente trabalho com gestão anti-fraude na [Clearsale](https://br.clear.sale/)
 
 Linkedln: [Vinicius D.Barros](https://www.linkedin.com/in/vinicius-d-2a9b2488/ "pessoal")  
 Github: [https://github.com/Vnidias](https://github.com/Vnidias "pessoal")
@@ -14,9 +17,10 @@ Github: [https://github.com/Vnidias](https://github.com/Vnidias "pessoal")
 
 ## Conhecimentos
 
-* Jdedwards 
+* Ciencia de dados 
 * C++ 
-* HTML e CSS (LESS)
+* Python
+* R
 * Sistemas de controle de versão (git)
 * Desenvolvimento Ágil
 * B.I (Tableau e Power B.I)
@@ -32,8 +36,10 @@ Github: [https://github.com/Vnidias](https://github.com/Vnidias "pessoal")
 
 ## Formação
 
-* Graduado em Automação Industrial pelO (IFSP)
+* MBA em Big Data com foco em ciencia de dados (FIAP)
+* Graduado em Automação Industrial pelo (IFSP)
 * Técnico em Mecanica de Manutenção Industrial (SENAI)
+
  
 
 --- 
